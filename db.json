@@ -1,0 +1,68 @@
+[
+   {
+      "id":"sub-22tfi40q4hvks",
+      "clientId":"ixdx1",
+      "type":"subscribe",
+      "channel":"/nsp",
+      "transport":"ws",
+      "extras":null,
+      "filters":[
+         {
+            "filterId":"ftr-e5gq3kc0ujtfo",
+            "eventName":"WorkInstruction",
+            "filter":{
+               
+            },
+            "operation":null,
+            "changeFields":{
+               
+            }
+         }
+      ],
+      "scope":{
+         "yard_gkey":null,
+         "yard_id":null,
+         "facility_gkey":null,
+         "facility_id":null,
+         "complex_gkey":null,
+         "complex_id":null,
+         "operator_gkey":null,
+         "operator_id":null,
+         "instance_id":"navis_dbz",
+         "level":"GLOBAL"
+      }
+   },
+   {
+      "id":"sub-dbs56un5p3v54",
+      "clientId":"ixdx1",
+      "type":"subscribe",
+      "channel":"/nsp",
+      "transport":"ws",
+      "extras":null,
+      "filters":[
+         {
+            "filterId":"ftr-78ovkoa5elvjh",
+            "eventName":"Che",
+            "filter":{
+               
+            },
+            "operation":null,
+            "changeFields":{
+               
+            }
+         }
+      ],
+      "scope":{
+         "yard_gkey":null,
+         "yard_id":null,
+         "facility_gkey":null,
+         "facility_id":null,
+         "complex_gkey":null,
+         "complex_id":null,
+         "operator_gkey":null,
+         "operator_id":null,
+         "instance_id":"navis_dbz",
+         "level":"GLOBAL"
+      }
+   }
+]
